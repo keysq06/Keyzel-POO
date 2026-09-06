@@ -1,4 +1,4 @@
-package src.Personas.Poderes;
+package src.Poderes;
 
 public class PoderTiraCorazones implements IPower {
     public PoderTiraCorazones(){

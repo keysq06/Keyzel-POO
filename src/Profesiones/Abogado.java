@@ -1,4 +1,4 @@
-package src.Personas.Profesiones;
+package src.Profesiones;
 
 import src.Personas.Persona;
 

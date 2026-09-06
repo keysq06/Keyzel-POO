@@ -1,4 +1,4 @@
-package src.Personas.Poderes;
+package src.Poderes;
 
 public interface IPower {
     public void dispararPoder();

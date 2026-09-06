@@ -1,8 +1,8 @@
-package src.Personas.programaMutante;
+package src.programaMutante;
 
 import src.Personas.*;
-import src.Personas.Poderes.*;
-import src.Personas.Profesiones.*;
+import src.Poderes.*;
+import src.Profesiones.*;
 
 public class quickstart {
     public static void main(String[] args) {

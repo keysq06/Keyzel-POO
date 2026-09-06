@@ -1,6 +1,6 @@
 package src.Personas;
 
-import src.Personas.Poderes.*;
+import src.Poderes.*;
 
 public class Persona {
     private byte edad;  
